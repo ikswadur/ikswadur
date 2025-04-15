@@ -2,7 +2,7 @@
 🌍 I’m interested in building useful, minimal, and open tech for real-world problems  
 💡 I’m currently learning Rust 🦀 and diving deeper into backend architecture  
 🤝 I’m looking to collaborate on open-source tools, API design, and developer-first platforms  
-📫 How to reach me: [LinkedIn](https://linkedin.com/in/yourname) | [biuro@energobroker.org]  
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/marcin-tomasz-rudawski-b4b33441/) | [biuro@energobroker.org]  
 🧑‍💻 Pronouns: he/him  
 ✨ Fun fact: I automate things before I even need them (just in case 😄)
 
